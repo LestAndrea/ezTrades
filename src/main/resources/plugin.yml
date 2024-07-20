@@ -1,0 +1,5 @@
+name: EZTrades
+version: '${project.version}'
+main: me.andreinch.eztrades.Main
+api-version: '1.16'
+load: STARTUP
